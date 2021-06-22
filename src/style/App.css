@@ -1,0 +1,7 @@
+.app {
+  background-color: whitesmoke;
+}
+
+.app__body {
+  display: flex;
+}
